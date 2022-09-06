@@ -1,0 +1,4 @@
+#!/bin/bash
+ACTION=':/action'
+
+echo $PATH$ACTION
